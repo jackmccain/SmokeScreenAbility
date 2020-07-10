@@ -1,0 +1,5 @@
+name: SmokeScreenAbility
+version: 0.0.1 
+description: Allows players to revive each other while in PVP.
+main: com.mcip.smokescreenability.SmokeScreenAbility
+api-version: 1.15
